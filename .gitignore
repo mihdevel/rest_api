@@ -1,0 +1,6 @@
+venv/
+.idea/
+organization/organization/__pycache__
+organization/rest_api/__pycache__
+organization/rest_api/migrations/__pycache__/
+organization/db.sqlite3
